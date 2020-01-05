@@ -35,7 +35,7 @@ void main(void){
     _delay(1);
     LATC = 0b00100000;
     _delay(1);
-    LATC = 0b01000000;
+    LATC = 0b01000000; 
     LATA = 0b00000000;
     
     return;
